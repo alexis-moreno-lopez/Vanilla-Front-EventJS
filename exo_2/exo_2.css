@@ -1,0 +1,11 @@
+.square{
+    border: solid 10px;
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    display: none;
+}
+button{
+    float: right;
+    
+}
