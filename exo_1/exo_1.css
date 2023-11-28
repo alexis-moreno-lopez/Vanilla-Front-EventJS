@@ -1,0 +1,11 @@
+body{
+    display: flex;
+}
+.case {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid darkblue;
+    height: 150px;
+    width: 200px;
+  }
